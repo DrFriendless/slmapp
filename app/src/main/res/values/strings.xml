@@ -1,0 +1,17 @@
+<resources>
+    <!-- text that appears in the app -->
+    <string name="app_name">Dinky Corpus</string>
+    <string name="enter_code">Enter Corpus ID</string>
+    <string name="login">GO</string>
+    <string name="write">Write a story</string>
+    <string name="submit">Submit</string>
+    <string name="backspace">Backspace</string>
+    <!-- error messages -->
+    <string name="connectionFailed">Connection to server failed.</string>
+    <string name="storyFailed">Story submission failed.</string>
+    <!-- symbols -->
+    <string name="corpus">friendless.statisticallanguagemodelling.App.corpus</string>
+    <!-- URLs -->
+    <string name="write_url">/write/{0}</string>
+    <string name="story_url">/story/{0}?story={1}</string>
+</resources>
